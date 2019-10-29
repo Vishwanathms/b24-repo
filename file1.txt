@@ -1,1 +1,2 @@
 first line in the file in the local repo
+2nd line added in the local
