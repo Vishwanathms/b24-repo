@@ -2,7 +2,6 @@ first line in the file in the local repo
 2nd line added in the local
 3rd line added in the central
 4th line added in the central B1
-5th line added in the central B1 after taking B2
 5th line added in the central B2
 6th line added in the local B2
-
+7th line added in the local B1 from Visual studio code editor
